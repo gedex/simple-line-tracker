@@ -15,3 +15,5 @@ Each mapped to P1.x
 ~~~
 
 ## Screenshot
+
+<img src="https://github.com/gedex/simple-line-tracker/raw/master/screenshot.jpg">
